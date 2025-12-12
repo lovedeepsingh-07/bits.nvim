@@ -1,3 +1,3 @@
 vim.opt.rtp:prepend(".")
 
-require("bits").setup()
+require("bits.dired").setup({})
